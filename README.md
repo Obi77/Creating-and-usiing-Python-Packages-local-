@@ -1,2 +1,2 @@
 # Creating-and-usiing-Python-Packages-local-
-[Rock, Paper, Scissors code
+[Rock, Paper, Scissors code]
